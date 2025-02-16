@@ -15,15 +15,8 @@ La estructura del proyecto sigue el estándar de Maven:
 
 Este proyecto utiliza las siguientes dependencias definidas en el archivo pom.xml:
 
-<dependencies>
-    <!-- Dependencias para pruebas -->
-    <dependency>
-        <groupId>junit</groupId>
-        <artifactId>junit</artifactId>
-        <version>4.13.2</version>
-        <scope>test</scope>
-    </dependency>
-</dependencies>
+![image](https://github.com/user-attachments/assets/d6046d8e-4d15-4ff8-a8ac-054b2f8513ee)
+
 
 ## Instrucciones de Instalación
 
