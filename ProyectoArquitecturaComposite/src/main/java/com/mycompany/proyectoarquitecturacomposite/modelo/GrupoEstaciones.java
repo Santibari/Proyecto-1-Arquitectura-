@@ -1,3 +1,5 @@
+package com.mycompany.proyectoarquitecturacomposite.modelo;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -19,7 +21,7 @@ public class GrupoEstaciones implements EstacionTransporte {
 
     @Override
     public void listarEstaciones() {
-        System.out.println("Grupo: " + nombre);
+        System.out.println("📁 Grupo: " + nombre);
         for (EstacionTransporte estacion : estaciones) {
             estacion.listarEstaciones();
         }

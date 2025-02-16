@@ -1,3 +1,7 @@
+package com.mycompany.proyectoarquitecturacomposite.modelo;
+
+import com.mycompany.proyectoarquitecturacomposite.modelo.EstacionTransporte;
+
 public class EstacionIndividual implements EstacionTransporte {
     private String nombre;
 
