@@ -9,22 +9,7 @@ Este proyecto demuestra la implementación del patrón Composite en un sistema d
 ## Estructura del proyecto
 La estructura del proyecto sigue el estándar de Maven:
 
-proyecto-arquitectura-composite
-│
-├── pom.xml                # Archivo de configuración de Maven
-├── README.md              # Documentación del proyecto
-└── src
-    ├── main
-    │   ├── java
-    │   │   └── com.mycompany.proyectoarquitecturacomposite    # Código fuente principal
-    │   │       ├── Main.java  # Clase principal
-    │   │       └── modelo    # Paquete con la lógica del sistema
-    │   │           ├── Estacion.java            # Representa una estación individual
-    │   │           ├── GrupoTransporte.java     # Representa un grupo de estaciones
-    │   │           ├── ElementoTransporte.java  # Interfaz común para estaciones y grupos
-    │   └── resources             # Recursos adicionales
-    └── test
-        └── java                  # Pruebas unitarias
+![image](https://github.com/user-attachments/assets/474e6a98-4210-4007-bf2f-d9a19daabca7)
 
 ## Dependencias Utilizadas
 
