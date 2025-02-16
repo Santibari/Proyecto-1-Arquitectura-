@@ -22,5 +22,27 @@ Este proyecto utiliza las siguientes dependencias definidas en el archivo pom.xm
 
 1. clonar el Repositorio
 
-git clone https://github.com/usuario/proyecto-arquitectura-composite.git
+git clone https://github.com/Santibari/Proyecto-1-Arquitectura-.git
 cd proyecto-arquitectura-composite
+
+2. Compilar el proyecto>
+
+mvn clean compile
+
+3. Ejecutar el proyecto>
+
+mvn exec:java -Dexec.mainClass="com.mycompany.proyectoarquitecturacomposite.Main"
+
+## Ejemplo de Ejecución
+
+Al ejecutar el programa, el usuario podrá interactuar con el sistema de transporte mediante un menú interactivo, ingresando opciones para crear estaciones, grupos y realizar búsquedas.
+
+## Ejemplo de salida:
+
+![image](https://github.com/user-attachments/assets/e67fa580-9e1b-45dc-a8e1-c82519935c99)
+
+## Diagrama UML
+El siguiente diagrama muestra la estructura del patrón Composite implementado en este proyecto:
+
+## 
+
