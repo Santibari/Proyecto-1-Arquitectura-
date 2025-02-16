@@ -44,5 +44,23 @@ Al ejecutar el programa, el usuario podrá interactuar con el sistema de transpo
 ## Diagrama UML
 El siguiente diagrama muestra la estructura del patrón Composite implementado en este proyecto:
 
-## 
+## Explicación de la Implementación
+
+El patrón Composite ha sido implementado utilizando las siguientes clases principales:
+
+ElementoTransporte: Interfaz común que define operaciones para estaciones individuales y grupos.
+
+Estacion: Representa una estación individual (Leaf) en el patrón Composite.
+
+GrupoTransporte: Representa un conjunto de estaciones o subgrupos (Composite), permitiendo estructurar la red de manera jerárquica.
+
+Main: Contiene el menú interactivo para que el usuario pueda gestionar la red de transporte en tiempo real.
+
+## Contribuciones
+
+Este proyecto fue desarrollado por:
+
+Santiago Bazzani, Andres Beltran, Anthony Nope
+
+
 
