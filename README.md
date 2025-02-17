@@ -44,6 +44,12 @@ Al ejecutar el programa, el usuario podrá interactuar con el sistema de transpo
 ## Diagrama UML
 El siguiente diagrama muestra la estructura del patrón Composite implementado en este proyecto:
 
+
+![nLGzRzj03Dq5w3yGMUeqiD5P2880Hf06QATsAphG9yPbSBfJxoE0q_PNTUkQFrRUwSE9f7Je4Y-6H97lyJsIbpwW2x7HPV46RamWTuiFy3qIr7JBXe0qADkqrWLic4omwV7nZv4uQFH0Ka2nDUJBWhjyHN3Ll_tiqFYKJF2ZB41-PveJvDMOjZg52kujrtrSMJEFI-K-l8jU7SChOvkTeme-1STcdpxTMQi9JLdyAel](https://github.com/user-attachments/assets/72596b7f-1770-4c42-9435-0f5dbcd23bbd)
+
+(Los circulos en verde son equivalentes a + (publico) )
+(Los cuadros rojos son quivalentes a - (privado) )
+
 ## Explicación de la Implementación
 
 El patrón Composite ha sido implementado utilizando las siguientes clases principales:
